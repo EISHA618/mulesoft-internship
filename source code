@@ -1,0 +1,2 @@
+CREATE TABLE movie(name VARCHAR(20),actor VARCHAR(20),actress VARCHAR(20),director VARCHAR(20),yearofrelease INTEGER);
+INSERT INTO movie(Mersal,Vijay,Samantha,Atlee,2017);
